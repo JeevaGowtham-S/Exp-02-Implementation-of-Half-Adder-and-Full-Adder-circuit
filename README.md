@@ -1,4 +1,4 @@
-![Screenshot 2023-09-01 085510](https://github.com/JeevaGowtham-S/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118042624/7ea2df1e-6e7a-4a63-945b-c6b87c41ea28)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -37,10 +37,12 @@ If the output is 1, then the led glows.
 ### 
 Program:
 /*
+```
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: JEEVAGOWTHAM S
 RegisterNumber:  212222230053
 */
+```
 ## HALF ADDER:
 ```
 module exp33(a,b,s,c);
