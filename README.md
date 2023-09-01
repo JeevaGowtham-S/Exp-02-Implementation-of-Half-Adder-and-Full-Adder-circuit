@@ -76,6 +76,8 @@ RTL realization
 
 ### TIMING DIAGRAM:
 # HALF ADDER:
+![Screenshot (123)](https://github.com/JeevaGowtham-S/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118042624/95eccf36-94f9-4925-ad15-82c9579880aa)
+
 
 # FULL ADDER:
 ![Screenshot (124)](https://github.com/JeevaGowtham-S/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118042624/863312c7-17df-4b4c-9958-768cbbcf34e6)
