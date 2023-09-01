@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -29,7 +29,7 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 #### Figure -02 FULL ADDER 
 
-### Procedure
+### Procedure :
 
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
@@ -87,6 +87,13 @@ RTL realization
 
 
 
-### TRUTH TABLE 
+### TRUTH TABLE :
+# HALF ADDER:
+![TT 1](https://github.com/JeevaGowtham-S/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118042624/9cd28690-b0b2-4e1f-8f6a-dcf9a657d344)
+
+# FULL ADDER:
+![FULL ADDER](https://github.com/JeevaGowtham-S/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118042624/bb1b445a-65fa-4c1f-80fe-aca2993690f6)
+
 
 ### Result:
+Thus the half adder and full adder are studied and the truth table for different logic gates are verified.
